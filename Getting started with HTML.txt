@@ -1,0 +1,15 @@
+﻿Q2) Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+Ans)The purpose of in HTML to add explanations or notes to the code.
+Exp- <!---- this is a comment—->
+
+
+Q4) Write a short note on Tag and element with an example?
+Ans) Tag-  tag is a piece of markup language used to indicate the beginning and ending of Html element in an HTML document. Html tags help web browsers convert HTML documents into web pages.
+Exp- <p>,<img>,<br> etc.
+
+ Element- Html element  is defined by start tag, some content, and end tag.
+Exp- <h1> heading </h1>.
+
+
+Q5) What is the DOCTYPE Declaration in HTML?
+Ans)  It is information to the browser about what document type to expect.
